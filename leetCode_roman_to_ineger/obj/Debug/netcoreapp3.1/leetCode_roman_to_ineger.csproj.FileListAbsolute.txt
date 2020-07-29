@@ -1,0 +1,13 @@
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\bin\Debug\netcoreapp3.1\leetCode_roman_to_ineger.exe
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\bin\Debug\netcoreapp3.1\leetCode_roman_to_ineger.deps.json
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\bin\Debug\netcoreapp3.1\leetCode_roman_to_ineger.runtimeconfig.json
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\bin\Debug\netcoreapp3.1\leetCode_roman_to_ineger.runtimeconfig.dev.json
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\bin\Debug\netcoreapp3.1\leetCode_roman_to_ineger.dll
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\bin\Debug\netcoreapp3.1\leetCode_roman_to_ineger.pdb
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\obj\Debug\netcoreapp3.1\leetCode_roman_to_ineger.csprojAssemblyReference.cache
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\obj\Debug\netcoreapp3.1\leetCode_roman_to_ineger.AssemblyInfoInputs.cache
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\obj\Debug\netcoreapp3.1\leetCode_roman_to_ineger.AssemblyInfo.cs
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\obj\Debug\netcoreapp3.1\leetCode_roman_to_ineger.csproj.CoreCompileInputs.cache
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\obj\Debug\netcoreapp3.1\leetCode_roman_to_ineger.dll
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\obj\Debug\netcoreapp3.1\leetCode_roman_to_ineger.pdb
+D:\PROGRAMN CREATED\C#\leetCode_roman_to_ineger\leetCode_roman_to_ineger\leetCode_roman_to_ineger\obj\Debug\netcoreapp3.1\leetCode_roman_to_ineger.genruntimeconfig.cache

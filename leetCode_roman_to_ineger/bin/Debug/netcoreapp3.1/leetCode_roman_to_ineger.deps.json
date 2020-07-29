@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "leetCode_roman_to_ineger/1.0.0": {
+        "runtime": {
+          "leetCode_roman_to_ineger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "leetCode_roman_to_ineger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
